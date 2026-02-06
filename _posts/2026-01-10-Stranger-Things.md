@@ -4,6 +4,7 @@ title: Stranger Things
 date: 2026-01-10
 categories: 电影
 author: Joyboy
+permalink: /posts/Stranger-Things/
 tags:
 - 美国
 ---

@@ -4,6 +4,7 @@ title: 天门山
 date: 2026-01-04
 categories: 自然
 author: Joyboy
+permalink: /posts/tianmenshan/
 tags: 
 - 旅行
 ---
