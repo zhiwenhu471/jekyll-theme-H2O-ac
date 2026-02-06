@@ -24,7 +24,7 @@ default_lang: "zh-Hans"
 # Github
 github:
   enabled: true
-  owner: zhonger
+  owner: zhiwenhu471
   repository: jekyll-theme-H2O-ac
 
 # PWA
@@ -54,7 +54,7 @@ favicon: "/favicon.ico"
 
 # Footer
 footer:
-  since: 2015
+  since: 2025
 
 # Author 配置博主信息
 author: 'Joyboy'
