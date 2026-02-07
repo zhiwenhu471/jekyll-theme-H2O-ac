@@ -29,8 +29,8 @@ lang: "zh-Hans"
 
 <!-- <a href="https://xhslink.com/m/4QhW4BrmiNJ" target="_blank"><img src="https://img.shields.io/badge/rednote-Gardenia in blossom-FF2442.svg?style=social&logo=xiaohongshu"></a> -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="mailto:hzwzndx@163.com" target="_blank"><img src="https://img.shields.io/badge/gmail-hzwzndx@163.com-2277cc.svg?style=social&logo=Gmail"></a>
-  <a href="https://github.com/zhiwenhu471" target="_blank"><img src="https://img.shields.io/badge/github-Joyboy-2277cc.svg?style=social&logo=GitHub"></a>
-  <a href="https://xhslink.com/m/4QhW4BrmiNJ" target="_blank"><img src="https://img.shields.io/badge/rednote-Gardenia-FF2442.svg?style=social&logo=xiaohongshu"></a>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: center;">
+  <a href="mailto:hzwzndx@163.com" target="_blank"><img src="https://img.shields.io/badge/gmail-hzwzndx@163.com-2277cc.svg?style=social&logo=Gmail" height = "25"></a>
+  <a href="https://github.com/zhiwenhu471" target="_blank"><img src="https://img.shields.io/badge/github-Joyboy-2277cc.svg?style=social&logo=GitHub" height = "25"></a>
+  <a href="https://xhslink.com/m/4QhW4BrmiNJ" target="_blank"><img src="https://img.shields.io/badge/rednote-Gardenia in blossom-FF2442.svg?style=social&logo=xiaohongshu" height = "25"></a>
 </div>
