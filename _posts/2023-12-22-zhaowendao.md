@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 朝闻道、
+title: 朝闻道
 date: 2023-12-22 16:47:00 +0800
 author: Joyboy
 permalink: /posts/zhaowendao/
