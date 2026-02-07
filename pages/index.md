@@ -19,4 +19,6 @@ lang: "zh-Hans"
 
 ## 联系我
 
-邮箱：hzwzndx@163.com
+- E-mail: hzwzndx@163.com
+- [github](https://github.com/zhiwenhu471)
+- [rednote](https://xhslink.com/m/4QhW4BrmiNJ)

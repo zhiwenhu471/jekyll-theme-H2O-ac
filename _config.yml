@@ -64,7 +64,7 @@ avatar: '/assets/img/dasheng_2.jpg'
 
 # Search
 search: true
-search_type: docsearch
+search_type: default # default or algolia
 
 # Night mode
 nightMode: false
