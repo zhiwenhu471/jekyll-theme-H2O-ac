@@ -5,6 +5,9 @@ date: 2026-01-04
 categories: 自然
 author: Joyboy
 permalink: /posts/tianmenshan/
+cover: 'https://unsplash.com/photos/white-clouds-and-blue-skies-DbwYNr8RPbg'
+cover_author: 'Resul Menteş 🇹🇷'
+cover_author_link: 'https://unsplash.com/@resul'
 tags: 
 - 旅行
 ---

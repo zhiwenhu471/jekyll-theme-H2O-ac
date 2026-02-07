@@ -1,7 +1,7 @@
 ---
 layout: page
-home-title: H2O-ac Theme For Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: To be or not to be
+description: 当北海仍然结着冰的时候，我看到白梅花盛开
 permalink: /en/index.html
 langs: ["zh-Hans", "en"]
 lang: "en"

@@ -5,6 +5,9 @@ date: 2026-02-06
 categories: 电影
 author: Joyboy
 permalink: /posts/buliangren-rumo/
+cover: 'https://unsplash.com/photos/snowy-landscape-with-lake-and-colorful-sunset-sky-z7cc0xZP3hc'
+cover_author: 'Vidar Nordli-Mathisen'
+cover_author_link: 'https://unsplash.com/@vidarnm'
 tags: 
 - 不良人
 ---
