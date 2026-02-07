@@ -4,10 +4,7 @@ title: 中国奇谭 2
 date: 2026-02-06
 categories: 动漫
 author: Joyboy
-permalink: /posts/anime/
-cover: 'https://unsplash.com/photos/gondolas-on-water-with-historic-buildings-and-seagull-omDeUOEuYcc'
-cover_author: 'Philipp Düsel'
-cover_author_link: 'https://unsplash.com/@philipp_dice'
+permalink: /posts/China-tales/
 tags:
 - 中国
 ---

@@ -4,12 +4,9 @@ title: 观影日历
 date: 2025-12-09 19:53:55
 categories: 电影
 author: Joyboy
-header-img: 'https://unsplash.com/photos/a-large-body-of-water-sitting-under-a-cloudy-sky-fxbrgcpfDqE'
-header-img-_author: 'Zetong Li'
-header-img-author_link: 'https://unsplash.com/@zetong'
 tags: 
 - 清单
-permalink: /posts/movie/
+permalink: /posts/movie-calender/
 ---
 
 > 自今年暑假以来，所看过的电影

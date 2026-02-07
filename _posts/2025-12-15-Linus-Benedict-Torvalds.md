@@ -5,9 +5,6 @@ date: 2025-12-15
 categories: linux
 author: Joyboy
 permalink: /posts/linus-benedict-torvalds/
-cover: 'https://unsplash.com/photos/a-man-with-a-backpack-walking-on-a-beach-xcLaJkOOsdk'
-cover_author: 'Mohammad Alizade'
-cover_author_link: 'https://unsplash.com/@mohamadaz'
 tags:
 - Linux
 ---

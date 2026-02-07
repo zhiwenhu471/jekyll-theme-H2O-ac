@@ -5,9 +5,6 @@ date: 2026-01-10
 categories: 电影
 author: Joyboy
 permalink: /posts/Stranger-Things/
-cover: 'https://unsplash.com/photos/calm-sky-during-daytime-1h2Pg97SXfA'
-cover_author: 'Kenrick Mills'
-cover_author_link: 'https://unsplash.com/@kenrickmills'
 tags:
 - 美国
 ---
