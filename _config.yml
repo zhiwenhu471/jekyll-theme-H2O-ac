@@ -64,6 +64,7 @@ avatar: '/assets/img/dasheng_2.jpg'
 
 # Search
 search: true
+search_type: default
 
 # Night mode
 nightMode: false
@@ -141,7 +142,7 @@ badges:
 
 # Alive time
 alivetime: true
-alivestart: "12/23/2021"
+alivestart: "10/27/2025"
 
 # Beian 备案号
 # beian: '沪ICP备xxxxxxxx号'
