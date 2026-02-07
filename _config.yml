@@ -103,7 +103,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -115,7 +115,7 @@ sns:
   # researchgate: 'https://www.researchgate.net/profile/Shengzhou-Li'
   # ORCID: 'https://orcid.org/0000-0001-6973-3825'
   github: 'https://github.com/zhiwenhu471'
-  # rednote: 'https://xhslink.com/m/4QhW4BrmiNJ'
+  xiaohongshu: 'https://xhslink.com/m/4QhW4BrmiNJ'
   # linkedin: 'https://www.linkedin.com/in/shengzhouli/'
   # segmentfault: 'https://segmentfault.com/u/wuwozhonger'
 
