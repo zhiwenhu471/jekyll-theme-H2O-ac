@@ -2,7 +2,7 @@
 layout: post
 title: Linus Benedict Torvalds
 date: 2025-12-15
-categories: linux
+categories: 编程
 author: Joyboy
 permalink: /posts/linus-benedict-torvalds/
 tags:
