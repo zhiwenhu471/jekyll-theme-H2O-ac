@@ -2,10 +2,9 @@
 layout: post
 title: 天门山
 date: 2026-01-04
-categories: 自然
 author: Joyboy
 permalink: /posts/tianmenshan/
-tags: 
+categories: 
 - 旅行
 ---
 元旦，张家界，天门山，雪落峰顶，白茫茫，亮堂堂。
